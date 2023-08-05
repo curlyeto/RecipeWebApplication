@@ -1,0 +1,47 @@
+﻿@page "/editprofile"
+
+<PageTitle>Edit Profile</PageTitle>
+
+<form>
+    <div class="form-group mb-2">
+        <label for="exampleFormControlFile1">Image</label>
+        <input type="file" class="form-control-file" id="exampleFormControlFile1" @bind="image">
+    </div>
+    <div class="form-group mb-2">
+        <label for="exampleInputEmail1">Name</label>
+        <input type="text" class="form-control" id="exampleInputName" aria-describedby="emailHelp" placeholder="Enter Name" @bind="name">
+    </div>
+
+    <div class="form-group mb-2">
+        <label for="exampleInputEmail1">Middle Name</label>
+        <input type="text" class="form-control" id="exampleInputMiddleName" aria-describedby="emailHelp" placeholder="Enter Middle Name" @bind="middleName">
+    </div>
+    <div class="form-group mb-2">
+        <label for="exampleInputEmail1">Last Name</label>
+        <input type="text" class="form-control" id="exampleInputLastName" aria-describedby="emailHelp" placeholder="Enter Last Name" @bind="lastName">
+    </div>
+    <div class="form-group mb-2">
+        <label for="exampleInputEmail1">Email</label>
+        <input type="email" class="form-control" id="exampleInputEmail" aria-describedby="emailHelp" placeholder="Enter Email" @bind="email">
+    </div>
+    <div class="form-group mb-2">
+        <label for="exampleInputEmail1">Password</label>
+        <input type="password" class="form-control" id="exampleInputPassword" aria-describedby="emailHelp" placeholder="Enter Passowrd" @bind="password">
+    </div>
+    <div class="form-group mb-2">
+        <label for="exampleInputEmail1">Password Reset</label>
+        <input type="password" class="form-control" id="exampleInputPasswordReset" aria-describedby="emailHelp" placeholder="Enter Passowrd Reset" @bind="passwordReset">
+    </div>
+
+    <button type="submit" class=" btn btn-primary">Edit Profile</button>
+</form>
+
+@code {
+    private string name;
+    private string middleName;
+    private string lastName;
+    private string email;
+    private string password;
+    private string passwordReset;
+    private string image;
+}

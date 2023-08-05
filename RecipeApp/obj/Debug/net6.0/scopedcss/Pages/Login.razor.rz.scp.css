@@ -1,0 +1,11 @@
+html[b-idwuiyrpmq],
+body[b-idwuiyrpmq] {
+    height: 100%;
+}
+
+.container[b-idwuiyrpmq] {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,68 @@
+﻿@page "/"
+@using RecipeApp.Modal
+
+<PageTitle>Home</PageTitle>
+
+<Virtualize Items="new List<IEnumerable<Recipe>> { TestList }">
+    <ItemContent>
+       
+            <div class="row">
+        @foreach (var item in context)
+        {
+                <div class="col m-5 bg-slate-500 border rounded">
+                    <img class="ps-5 pt-1" src="@item.Image" height="200" width="200" />
+                    <p class="pt-2">@item.Name</p>
+                    <p>
+                @item.Integrates
+                    </p>
+                </div>
+        }
+        </div>
+
+   
+
+    
+
+
+    </ItemContent>
+</Virtualize>
+
+@code {
+    private List<Recipe> TestList = new List<Recipe>();
+
+    private Recipe recipe = new Recipe();
+
+    protected override void OnInitialized()
+    {
+
+        TestList = GetRow();
+    }
+
+    List<Recipe> GetRow()
+    {
+        List<Recipe> rows = new List<Recipe>();
+        int listIndex = 0;
+        for (int k = 0; k < recipe.addRecipes().Count; k++)
+        {
+
+            for (int i = 0; i < 4; i++)
+            {
+                if (rows.Count == recipe.addRecipes().Count)
+                {
+                    break;
+                
+                }
+                rows.Add(recipe.addRecipes()[listIndex]);
+                listIndex++;
+            }
+            if (rows.Count == recipe.addRecipes().Count)
+            {
+                break;
+
+            }
+           
+        }
+        
+        return rows;
+    }
+}

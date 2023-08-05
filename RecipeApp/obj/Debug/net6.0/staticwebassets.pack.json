@@ -1,0 +1,1017 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\0zMdoOJY.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RecipeApp.styles.css",
+      "PackagePath": "staticwebassets\\RecipeApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\ckeditor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\ckeditor.js.map",
+      "PackagePath": "staticwebassets\\lib\\ckeditor.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\ckeditor.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\af.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\af.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\af.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ar.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ast.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ast.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ast.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ast.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\az.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\az.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\az.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\bg.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\bg.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\bn.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\bn.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\bn.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\bn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\bs.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\bs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ca.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ca.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\cs.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\cs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\da.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\da.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\da.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\de-ch.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\de-ch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\de.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\de.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\de.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\el.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\el.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\el.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\en-au.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\en-au.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\en-gb.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\en-gb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\eo.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\eo.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\eo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\es-co.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\es-co.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\es-co.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\es-co.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\es.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\es.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\es.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\et.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\et.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\et.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\eu.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\eu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\fa.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\fa.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\fi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\fr.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\fr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\gl.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\gl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\gu.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\gu.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\gu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\he.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\he.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\he.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\hi.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\hi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\hr.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\hr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\hu.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\hu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\id.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\id.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\id.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\it.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\it.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\it.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ja.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ja.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\jv.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\jv.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\jv.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\jv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\km.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\km.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\km.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\kn.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\kn.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\kn.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\kn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ko.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ko.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ku.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ku.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\lt.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\lt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\lv.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\lv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ms.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ms.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\nb.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\nb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ne.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ne.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ne.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ne.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\nl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\no.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\no.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\no.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\oc.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\oc.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\oc.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\pl.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\pl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\pt-br.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\pt-br.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\pt.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\pt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ro.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ro.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ru.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ru.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\si.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\si.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\si.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\sk.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\sk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\sl.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\sl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\sq.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\sq.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\sr-latn.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\sr-latn.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\sr-latn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\sr.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\sr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\sv.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\sv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\th.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\th.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\th.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\tk.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\tk.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\tk.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\tk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\tr.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\tr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\tt.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\tt.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\tt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ug.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ug.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ug.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\uk.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\uk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ur.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ur.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\ur.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\ur.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\uz.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\uz.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\uz.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\uz.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\vi.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\vi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\zh-cn.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\zh-cn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\zh.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\lib\\translations\\zh.min.js",
+      "PackagePath": "staticwebassets\\lib\\translations\\zh.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RecipeApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RecipeApp.props",
+      "PackagePath": "build\\RecipeApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RecipeApp.props",
+      "PackagePath": "buildMultiTargeting\\RecipeApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RecipeApp.props",
+      "PackagePath": "buildTransitive\\RecipeApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

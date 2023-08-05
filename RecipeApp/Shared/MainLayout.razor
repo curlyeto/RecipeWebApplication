@@ -1,0 +1,42 @@
+﻿@inherits LayoutComponentBase
+@using RecipeApp.Modal
+<link href="~/lib/font-awesome/css/all.css" rel="stylesheet" />
+
+<div class="page">
+  <!--
+    <div class="sidebar">
+            <NavMenu />
+        </div>
+  -->
+ 
+
+    <main>
+        
+        <div class="top-row px-4">
+            <div class="d-flex flex-row col-md-11">
+                <a class="p-1" href=""><i class="oi oi-home"/>Home</a>
+                <a class="p-1" href="addrecipe"><i class="oi oi-plus" />Add Recipe</a>
+                <a class="p-1" href="myrecipe"><i class="oi oi-list-rich" />My Recipe</a>
+                <a class="p-1" href="editprofile"><i class="oi oi-person" />Edit Profile</a>
+                <a class="p-1" href="login"><i class="oi oi-account-logout" />Logout</a>
+            </div>
+            <p>@user.FirstName @user.MiddleName @user.LastName</p>
+            <img src="@user.Image" height="50" width="50" />
+        </div>
+        
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
+@code {
+
+    User user = new User();
+
+
+    protected override void OnInitialized()
+    {
+        user = user.defaultUser();
+    }
+}

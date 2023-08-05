@@ -1,0 +1,48 @@
+﻿@layout LoginLayout
+@page "/login"
+@inject NavigationManager NavigationManager
+@inject IJSRuntime JsRuntime
+@using RecipeApp.Modal
+@using RecipeApp.Helper
+
+
+<div class="container">
+    <h3>Login</h3>
+    <div class="form-group col-4 ">
+        <label for="username">Mail:</label>
+        <input type="email" class="form-control" id="email" @bind="email" />
+    </div>
+
+    <div class="form-group col-4 mb-2">
+        <label for="password">Password:</label>
+        <input type="password" class="form-control" id="password" @bind="password" />
+    </div>
+
+    <button class="btn btn-primary" @onclick="HandleLogin">Login</button>
+    <a href="register">Register</a>
+</div>
+
+
+@code {
+    private string email;
+    private string password;
+
+    private async void HandleLogin()
+    {
+        User user = new User();
+        UIHelper uIHelper = new UIHelper(JsRuntime);
+        
+        if (!string.IsNullOrEmpty(email) && !string.IsNullOrEmpty(password))
+        {
+            if (user.defaultUser().Email == email && user.defaultUser().Password == password)
+                NavigationManager.NavigateTo("/");
+            else
+                await uIHelper.Alert("Login unsuccessful. Please check your email and password!");
+        }
+        else
+        {
+            await uIHelper.Alert("Please enter email and password");
+        }
+    }
+   
+}
