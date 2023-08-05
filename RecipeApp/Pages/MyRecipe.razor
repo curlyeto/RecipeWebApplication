@@ -1,5 +1,6 @@
 ﻿@page "/myrecipe"
 @using RecipeApp.Modal
+@inject NavigationManager NavigationManager
 
 <PageTitle>My Recipe</PageTitle>
 
@@ -14,7 +15,7 @@
                     <p>
                         @item.Integrates
                     </p>
-                    <button type="button" class="btn btn-warning">Edit</button>
+                    <button type="button" class="btn btn-warning" @onclick="EditRecipe">Edit</button>
                     <button type="button" class="btn btn-danger">Delete</button>
                 </div>
             }
@@ -26,6 +27,11 @@
     private List<Recipe> TestList = new List<Recipe>();
 
     private Recipe recipe = new Recipe();
+
+    private void EditRecipe()
+    {
+        NavigationManager.NavigateTo("/editrecipe");
+    }
 
     protected override void OnInitialized()
     {

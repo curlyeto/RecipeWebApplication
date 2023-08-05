@@ -1,0 +1,30 @@
+﻿@page "/detailrecipe"
+@using RecipeApp.Modal
+@using System.Text.Json
+
+<PageTitle>Detail Recipe</PageTitle>
+@if (item != null)
+{
+    <img class="ps-5 pt-1" src="@item.Image" height="200" width="200" />
+    <p class="pt-2">@item.Name</p>
+    <p>@item.Integrates</p>
+    <p>@item.Instruction</p>
+}
+@code {
+    private Recipe item;
+
+    [Inject]
+    private NavigationManager NavigationManager { get; set; }
+
+    protected override void OnInitialized()
+    {
+        var uri = new Uri(NavigationManager.Uri);
+        var data = uri.Query;
+
+        if (!string.IsNullOrEmpty(data))
+        {
+            var json = Uri.UnescapeDataString(data.Substring(6)); 
+            item = JsonSerializer.Deserialize<Recipe>(json);
+        }
+    }
+}

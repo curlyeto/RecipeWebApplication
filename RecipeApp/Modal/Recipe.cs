@@ -5,15 +5,15 @@ namespace RecipeApp.Modal
 {
     public class Recipe
     {
-        public int Id;
+        public int Id { get; set; }
         [Required]
-        public string Image;
+        public string Image { get; set; }
         [Required]
-        public string Name;
+        public string Name { get; set; }
         [Required]
-        public string Integrates;
+        public string Integrates { get; set; }
         [Required]
-        public string Instruction;
+        public string Instruction { get; set; }
         public Recipe()
         {
           

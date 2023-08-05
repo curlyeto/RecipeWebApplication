@@ -1801,11 +1801,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-HDqBrFG6eo28B2xDqAGEyZy88XrLe0CepZ9MK1p+5Xo=",
+      "hash": "sha256-JeJWMd42DVl5I7\/ZgquKny8O5X8oY\/ZOx8pxBX6iS3U=",
       "url": "_framework\/RecipeApp.dll"
     },
     {
-      "hash": "sha256-\/4RtqoQ6l5G5mWlHm\/8GGFmdE0JTFxwQM+EoMEvsc4Q=",
+      "hash": "sha256-ZT1i\/bRSQ2ANR4iq5Hi9EdzwBqC8Ybc2xYUC93UGISc=",
       "url": "_framework\/RecipeApp.pdb"
     },
     {
@@ -1813,7 +1813,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-oF\/fsk8JpqewJhiqGdZPDc4qrRnQlkuxaxnMeykltf8=",
+      "hash": "sha256-T9pITq9hBwX14PlvckHVtnpnDDbAGUnu5ZhkzdJxAw0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -2009,5 +2009,5 @@
       "url": "_content\/BootstrapBlazor.FontAwesome\/webfonts\/fa-v4compatibility.woff2"
     }
   ],
-  "version": "uMmSXWdf"
+  "version": "M2cz2OsV"
 };

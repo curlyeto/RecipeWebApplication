@@ -24,8 +24,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkUmVjaXBlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Research/source/repos/RecipeApp/RecipeApp/Pages/DetailRecipe.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlsUmVjaXBlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Research/source/repos/RecipeApp/RecipeApp/Pages/EditProfile.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFByb2ZpbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Research/source/repos/RecipeApp/RecipeApp/Pages/EditRecipe.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFJlY2lwZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Research/source/repos/RecipeApp/RecipeApp/Pages/Index.razor]

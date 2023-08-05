@@ -1,5 +1,7 @@
 ﻿@page "/"
 @using RecipeApp.Modal
+@inject NavigationManager NavigationManager
+@using System.Text.Json
 
 <PageTitle>Home</PageTitle>
 
@@ -9,7 +11,7 @@
             <div class="row">
         @foreach (var item in context)
         {
-                <div class="col m-5 bg-slate-500 border rounded">
+                <div class="col m-5 bg-slate-500 border rounded" @onclick="() => DirectToDetailRecipe(item)">
                     <img class="ps-5 pt-1" src="@item.Image" height="200" width="200" />
                     <p class="pt-2">@item.Name</p>
                     <p>
@@ -31,6 +33,13 @@
     private List<Recipe> TestList = new List<Recipe>();
 
     private Recipe recipe = new Recipe();
+
+    private void DirectToDetailRecipe(Recipe item)
+    {
+        var json = JsonSerializer.Serialize(item);
+        var encodedJson = Uri.EscapeDataString(json);
+        NavigationManager.NavigateTo($"/detailrecipe?data={encodedJson}");
+    }
 
     protected override void OnInitialized()
     {

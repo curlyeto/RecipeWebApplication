@@ -6,8 +6,11 @@
 @using RecipeApp.Helper
 
 
-<div class="container">
+<div class="">
     <h3>Login</h3>
+    <p class="mt-2">Default User Information</p>
+    <p class="">test@gmail.com</p>
+    <p class="mb-4">1234</p>
     <div class="form-group col-4 ">
         <label for="username">Mail:</label>
         <input type="email" class="form-control" id="email" @bind="email" />
@@ -18,7 +21,7 @@
         <input type="password" class="form-control" id="password" @bind="password" />
     </div>
 
-    <button class="btn btn-primary" @onclick="HandleLogin">Login</button>
+    <button class="btn btn-primary" @onclick="LoginPage">Login</button>
     <a href="register">Register</a>
 </div>
 
@@ -27,7 +30,7 @@
     private string email;
     private string password;
 
-    private async void HandleLogin()
+    private async void LoginPage()
     {
         User user = new User();
         UIHelper uIHelper = new UIHelper(JsRuntime);
