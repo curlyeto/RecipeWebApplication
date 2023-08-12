@@ -58,7 +58,9 @@ namespace IntegrationTests.RecipeApp.Tests
             myRecipeTab?.Click();
 
             Assert.IsTrue(_webDriver?.Title.Contains("My Recipe"));
+            
         }
+
 
        
         [TestCleanup]

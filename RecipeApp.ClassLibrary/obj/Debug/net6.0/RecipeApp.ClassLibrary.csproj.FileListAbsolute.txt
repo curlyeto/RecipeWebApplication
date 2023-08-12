@@ -1,0 +1,12 @@
+C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\bin\Debug\net6.0\RecipeApp.ClassLibrary.deps.json
+C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\bin\Debug\net6.0\RecipeApp.ClassLibrary.dll
+C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\bin\Debug\net6.0\RecipeApp.ClassLibrary.pdb
+C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\obj\Debug\net6.0\RecipeApp.ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\obj\Debug\net6.0\RecipeApp.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\obj\Debug\net6.0\RecipeApp.ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\obj\Debug\net6.0\RecipeApp.ClassLibrary.AssemblyInfo.cs
+C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\obj\Debug\net6.0\RecipeApp.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\obj\Debug\net6.0\RecipeApp.ClassLibrary.dll
+C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\obj\Debug\net6.0\refint\RecipeApp.ClassLibrary.dll
+C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\obj\Debug\net6.0\RecipeApp.ClassLibrary.pdb
+C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\obj\Debug\net6.0\ref\RecipeApp.ClassLibrary.dll
