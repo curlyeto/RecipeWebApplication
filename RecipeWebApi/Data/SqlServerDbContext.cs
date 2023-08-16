@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using RecipeWebApi.Models;
+using RecipeApp.ClassLibrary.Model;
+
 
 namespace RecipeWebApi.Data
 {
@@ -16,7 +17,8 @@ namespace RecipeWebApi.Data
             modelBuilder.Entity<Recipe>()
                 .HasOne(r => r.User)             // Recipe has one User
                 .WithMany(u => u.Recipes)        // User has many Recipes
-                .HasForeignKey(r => r.UserId)    // Use UserId as the foreign key
+                .HasForeignKey(r => r.UserId)
+                .HasPrincipalKey(r=>r.Id)
                 .OnDelete(DeleteBehavior.Cascade);
             */
         }

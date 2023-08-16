@@ -1,5 +1,5 @@
 ﻿@inherits LayoutComponentBase
-@using RecipeApp.Modal
+@using RecipeApp.ClassLibrary.Model
 <link href="~/lib/font-awesome/css/all.css" rel="stylesheet" />
 
 <div class="page">
@@ -20,8 +20,8 @@
                 <a class="p-1" href="editprofile"><i class="oi oi-person" />Edit Profile</a>
                 <a class="p-1" href="login"><i class="oi oi-account-logout" />Logout</a>
             </div>
-            <p>@user.FirstName @user.MiddleName @user.LastName</p>
-            <img src="@user.Image" height="50" width="50" />
+            <p>@user.FirstName </p>
+            <img src="@user.Photo" height="50" width="50" />
         </div>
         
 

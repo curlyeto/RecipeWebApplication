@@ -1,8 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using RecipeApp.ClassLibrary.Model;
 using RecipeWebApi.Data;
-using RecipeWebApi.Models;
+
 
 namespace RecipeWebApi.Controllers
 {

@@ -188,3 +188,8 @@ C:\Users\Research\source\repos\RecipeApp\IntegrationTests.RecipeApp.Tests\bin\De
 C:\Users\Research\source\repos\RecipeApp\IntegrationTests.RecipeApp.Tests\bin\Debug\net6.0\RecipeApp.ClassLibrary.pdb
 C:\Users\Research\source\repos\RecipeApp\IntegrationTests.RecipeApp.Tests\bin\Debug\net6.0\RecipeApp.pdb
 C:\Users\Research\source\repos\RecipeApp\IntegrationTests.RecipeApp.Tests\bin\Debug\net6.0\RecipeWebApi.pdb
+C:\Users\Research\source\repos\RecipeApp\IntegrationTests.RecipeApp.Tests\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Research\source\repos\RecipeApp\IntegrationTests.RecipeApp.Tests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Research\source\repos\RecipeApp\IntegrationTests.RecipeApp.Tests\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Research\source\repos\RecipeApp\IntegrationTests.RecipeApp.Tests\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Research\source\repos\RecipeApp\IntegrationTests.RecipeApp.Tests\bin\Debug\net6.0\System.CodeDom.dll

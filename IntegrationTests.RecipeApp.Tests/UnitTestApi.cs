@@ -5,6 +5,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using RecipeApp.ClassLibrary.Model;
+using RecipeWebApi.Data;
+using RecipeWebApi.Controllers;
 using Xunit;
 
 namespace IntegrationTests.RecipeApp.Tests
@@ -22,18 +25,18 @@ namespace IntegrationTests.RecipeApp.Tests
         public async Task GetRecipe_Returns_The_Correct_Number_of_Categories()
         {
             int count = 6;
-            var faceRecipes = A.CollectionOfDummy<RecipeWebApi.Models.Recipe>(count).AsEnumerable();
-            var context = A.Fake<RecipeWebApi.Data.SqlServerDbContext>();
-            foreach (RecipeWebApi.Models.Recipe category in faceRecipes)
+            var faceRecipes = A.CollectionOfDummy<Recipe>(count).AsEnumerable();
+            var context = A.Fake<SqlServerDbContext>();
+            foreach (Recipe category in faceRecipes)
             {
                 A.CallTo(() => context.Recipe.Add(category));
             }
-            var controller = new RecipeWebApi.Controllers.RecipeController(context);
+            var controller = new RecipeController(context);
 
             var actionResult = await controller.getRecipes();
 
             var result = actionResult.Result as OkObjectResult;
-            var returnCategories = result.Value as IEnumerable<RecipeWebApi.Models.Recipe>;
+            var returnCategories = result.Value as IEnumerable<Recipe>;
             Assert.Equals(count, returnCategories.Count());
         }
     }

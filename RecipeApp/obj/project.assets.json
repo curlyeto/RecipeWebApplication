@@ -672,6 +672,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "RecipeApp.ClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/RecipeApp.ClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RecipeApp.ClassLibrary.dll": {}
+        }
       }
     },
     "net6.0/browser-wasm": {
@@ -1338,6 +1348,16 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "RecipeApp.ClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/RecipeApp.ClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RecipeApp.ClassLibrary.dll": {}
         }
       }
     }
@@ -2323,13 +2343,19 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "RecipeApp.ClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../RecipeApp.ClassLibrary/RecipeApp.ClassLibrary.csproj",
+      "msbuildProject": "../RecipeApp.ClassLibrary/RecipeApp.ClassLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "BootstrapBlazor.FontAwesome >= 7.4.2",
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.16",
-      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.16"
+      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.16",
+      "RecipeApp.ClassLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2364,7 +2390,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp.ClassLibrary\\RecipeApp.ClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp.ClassLibrary\\RecipeApp.ClassLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -860,3 +860,11 @@ C:\Users\Research\source\repos\RecipeApp\RecipeApp\obj\Debug\net6.0\build-gz\ceT
 C:\Users\Research\source\repos\RecipeApp\RecipeApp\obj\Debug\net6.0\build-gz\VgyQA3Fo.gz
 C:\Users\Research\source\repos\RecipeApp\RecipeApp\obj\Debug\net6.0\build-gz\LWFSszfG.gz
 C:\Users\Research\source\repos\RecipeApp\RecipeApp\obj\Debug\net6.0\scopedcss\Pages\Login.razor.rz.scp.css
+C:\Users\Research\source\repos\RecipeApp\RecipeApp\bin\Debug\net6.0\wwwroot\_framework\RecipeApp.ClassLibrary.dll
+C:\Users\Research\source\repos\RecipeApp\RecipeApp\bin\Debug\net6.0\wwwroot\_framework\RecipeApp.ClassLibrary.pdb
+C:\Users\Research\source\repos\RecipeApp\RecipeApp\bin\Debug\net6.0\wwwroot\_framework\RecipeApp.ClassLibrary.pdb.gz
+C:\Users\Research\source\repos\RecipeApp\RecipeApp\bin\Debug\net6.0\wwwroot\_framework\RecipeApp.ClassLibrary.dll.gz
+C:\Users\Research\source\repos\RecipeApp\RecipeApp\bin\Debug\net6.0\RecipeApp.ClassLibrary.dll
+C:\Users\Research\source\repos\RecipeApp\RecipeApp\bin\Debug\net6.0\RecipeApp.ClassLibrary.pdb
+C:\Users\Research\source\repos\RecipeApp\RecipeApp\obj\Debug\net6.0\build-gz\lqoDeiX3.gz
+C:\Users\Research\source\repos\RecipeApp\RecipeApp\obj\Debug\net6.0\build-gz\LPvpomgL.gz

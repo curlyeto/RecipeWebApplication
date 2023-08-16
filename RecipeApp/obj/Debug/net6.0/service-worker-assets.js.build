@@ -1801,11 +1801,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-S3+NXRYx5w\/87rzb4ott0qGlRTkOPPQ9Skwgq2RvbOU=",
+      "hash": "sha256-dnYnbP4DQE2PQAgJvDXl+fSfbassFytDEE1i2jUdt9s=",
       "url": "_framework\/RecipeApp.dll"
     },
     {
-      "hash": "sha256-XcMHDXqqm0\/wikaUhJ4308Q5HROvj02u9Tcbt85OJ+s=",
+      "hash": "sha256-wf3PLNbZI2fdQ6\/FRwkQ0r4NPbuKvmadyEevYisFOEg=",
       "url": "_framework\/RecipeApp.pdb"
     },
     {
@@ -1813,8 +1813,16 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-+9XgAdvgEABgpBxPc3TEgW\/4o0eplwTOa1AfzBlWucI=",
+      "hash": "sha256-Wmm6vi7rdiQXnsBTCexH\/PpWmLza0mQBTjPII7WZhiM=",
       "url": "_framework\/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-wzQvRo02WQLmwvl+qE8ENfwprnXbXZ+SJsN1jN4dqk4=",
+      "url": "_framework\/RecipeApp.ClassLibrary.dll"
+    },
+    {
+      "hash": "sha256-QghOUS7zp22zlRpbB2XXswb1FM2xR9UHdgwRRqGAiZY=",
+      "url": "_framework\/RecipeApp.ClassLibrary.pdb"
     },
     {
       "hash": "sha256-JsDcIXZ7UPj+qzjFu5KErt37eDPl+smPQUSnhUZ3uCg=",
@@ -2009,5 +2017,5 @@
       "url": "_content\/BootstrapBlazor.FontAwesome\/webfonts\/fa-v4compatibility.woff2"
     }
   ],
-  "version": "D5aHdOfU"
+  "version": "uXEkCsOG"
 };
