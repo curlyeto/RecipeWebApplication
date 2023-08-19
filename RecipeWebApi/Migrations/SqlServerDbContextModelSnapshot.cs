@@ -21,7 +21,7 @@ namespace RecipeWebApi.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("RecipeWebApi.Models.Recipe", b =>
+            modelBuilder.Entity("RecipeApp.ClassLibrary.Model.Recipe", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -53,7 +53,7 @@ namespace RecipeWebApi.Migrations
                     b.ToTable("Recipe");
                 });
 
-            modelBuilder.Entity("RecipeWebApi.Models.User", b =>
+            modelBuilder.Entity("RecipeApp.ClassLibrary.Model.User", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

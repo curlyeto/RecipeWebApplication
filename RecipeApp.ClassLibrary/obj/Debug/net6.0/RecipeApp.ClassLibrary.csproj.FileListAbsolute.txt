@@ -10,3 +10,5 @@ C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\obj\Debug\net6.0
 C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\obj\Debug\net6.0\refint\RecipeApp.ClassLibrary.dll
 C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\obj\Debug\net6.0\RecipeApp.ClassLibrary.pdb
 C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\obj\Debug\net6.0\ref\RecipeApp.ClassLibrary.dll
+C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\bin\Debug\net6.0\RecipeApp.ClassLibrary.runtimeconfig.json
+C:\Users\Research\source\repos\RecipeApp\RecipeApp.ClassLibrary\obj\Debug\net6.0\RecipeApp.ClassLibrary.genruntimeconfig.cache

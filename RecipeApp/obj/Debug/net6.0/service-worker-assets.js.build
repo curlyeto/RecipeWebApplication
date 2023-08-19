@@ -989,6 +989,14 @@
       "url": "_framework\/BootstrapBlazor.FontAwesome.dll"
     },
     {
+      "hash": "sha256-vivNycD\/SihlyOUpb2o8h8IkEf8mjl7\/MP3PX4slYeI=",
+      "url": "_framework\/EntityFramework.SqlServer.dll"
+    },
+    {
+      "hash": "sha256-6tusYE7+HqAnLRKF9I41hUGXiqHRmO8EILDlIseTuLQ=",
+      "url": "_framework\/EntityFramework.dll"
+    },
+    {
       "hash": "sha256-aDNthpcgReHLCzS5ZT\/PJDirLd6siorRIngHWOCUfd4=",
       "url": "_framework\/Microsoft.AspNetCore.Authorization.dll"
     },
@@ -1105,8 +1113,44 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
+      "hash": "sha256-56MWX7GCuiW+O0EPzkUo0jj6T\/mhpVB6x+UFQtaS2qE=",
+      "url": "_framework\/Microsoft.Win32.SystemEvents.dll"
+    },
+    {
+      "hash": "sha256-IsZJ91\/OW+fHzNqIgEc7Y072ns8z9dGritiSyvR9Wgc=",
+      "url": "_framework\/Newtonsoft.Json.dll"
+    },
+    {
+      "hash": "sha256-FwTliQ0DZdjsM2pGhbBJ8+N11S\/RuTn8r3AcBpSaWfI=",
+      "url": "_framework\/System.CodeDom.dll"
+    },
+    {
+      "hash": "sha256-Rmj4lST8tNcZUOCtfg1W5eXbLHDjla1J99tqgWTMUNY=",
+      "url": "_framework\/System.Configuration.ConfigurationManager.dll"
+    },
+    {
+      "hash": "sha256-DHtY+dJ7Jexc\/M4jndGQiJ0Xpxdjm1ULhCAa0jng4X0=",
+      "url": "_framework\/System.Data.SqlClient.dll"
+    },
+    {
+      "hash": "sha256-E+\/s4U4Xt\/iFr\/+Dd7ZSqXXAOJZKgnOAW4C5r7OPcHc=",
+      "url": "_framework\/System.Drawing.Common.dll"
+    },
+    {
       "hash": "sha256-6+E55JXedimdw1c1bDtVg4K7XuWjVWVTifH8QpfzXSY=",
       "url": "_framework\/System.IO.Pipelines.dll"
+    },
+    {
+      "hash": "sha256-hgT40uPpMnELY0cwspokXIls6t\/WSmIAHlgukXFTLxM=",
+      "url": "_framework\/System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
+      "hash": "sha256-dO87Z5YKm1af7ZrEVxV3adv+QzsPT6E8UhZ8Ika\/7XE=",
+      "url": "_framework\/System.Security.Permissions.dll"
+    },
+    {
+      "hash": "sha256-q76BRvo\/Y47p9aquhRgtct54B8nwoGMR7xTrTl88s7A=",
+      "url": "_framework\/System.Windows.Extensions.dll"
     },
     {
       "hash": "sha256-lyq5nrD2zhAnxIMzHgyqSnQeiY4waa4MlyAJ2pF8TQE=",
@@ -1801,11 +1845,19 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-dnYnbP4DQE2PQAgJvDXl+fSfbassFytDEE1i2jUdt9s=",
+      "hash": "sha256-oji2xP70\/e8RC9lyAp8JmhFaiK+vy2qayoKiIaizVx8=",
+      "url": "_framework\/RecipeApp.ClassLibrary.dll"
+    },
+    {
+      "hash": "sha256-rHOmAcoXefWca9CD0Pk2Z7Kyu7FcWVmKHjcAFeHs6po=",
+      "url": "_framework\/RecipeApp.ClassLibrary.pdb"
+    },
+    {
+      "hash": "sha256-NEHhnTMilr1HaS+5x4EtOPatnNiD7\/7k1ItQAHLHA5Q=",
       "url": "_framework\/RecipeApp.dll"
     },
     {
-      "hash": "sha256-wf3PLNbZI2fdQ6\/FRwkQ0r4NPbuKvmadyEevYisFOEg=",
+      "hash": "sha256-mM+\/dSqV8tiJ8xUC3ae4i\/fEF5BL\/32iNiTVn8vOmjc=",
       "url": "_framework\/RecipeApp.pdb"
     },
     {
@@ -1813,16 +1865,8 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-Wmm6vi7rdiQXnsBTCexH\/PpWmLza0mQBTjPII7WZhiM=",
+      "hash": "sha256-R9C7mxFcLsjCzc6z1tL8MpK8bpOAGU1ln5kU1SKa8Wg=",
       "url": "_framework\/blazor.boot.json"
-    },
-    {
-      "hash": "sha256-wzQvRo02WQLmwvl+qE8ENfwprnXbXZ+SJsN1jN4dqk4=",
-      "url": "_framework\/RecipeApp.ClassLibrary.dll"
-    },
-    {
-      "hash": "sha256-QghOUS7zp22zlRpbB2XXswb1FM2xR9UHdgwRRqGAiZY=",
-      "url": "_framework\/RecipeApp.ClassLibrary.pdb"
     },
     {
       "hash": "sha256-JsDcIXZ7UPj+qzjFu5KErt37eDPl+smPQUSnhUZ3uCg=",
@@ -2017,5 +2061,5 @@
       "url": "_content\/BootstrapBlazor.FontAwesome\/webfonts\/fa-v4compatibility.woff2"
     }
   ],
-  "version": "uXEkCsOG"
+  "version": "aDnY0lw9"
 };

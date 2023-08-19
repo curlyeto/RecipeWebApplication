@@ -14,11 +14,13 @@
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props" Condition="Exists('$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly\6.0.16\build\net6.0\Microsoft.AspNetCore.Components.WebAssembly.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly\6.0.16\build\net6.0\Microsoft.AspNetCore.Components.WebAssembly.props')" />
     <Import Project="$(NuGetPackageRoot)bootstrapblazor\7.0.0\buildTransitive\BootstrapBlazor.props" Condition="Exists('$(NuGetPackageRoot)bootstrapblazor\7.0.0\buildTransitive\BootstrapBlazor.props')" />
     <Import Project="$(NuGetPackageRoot)bootstrapblazor.fontawesome\7.4.2\buildTransitive\BootstrapBlazor.FontAwesome.props" Condition="Exists('$(NuGetPackageRoot)bootstrapblazor.fontawesome\7.4.2\buildTransitive\BootstrapBlazor.FontAwesome.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgEntityFramework Condition=" '$(PkgEntityFramework)' == '' ">C:\Users\Research\.nuget\packages\entityframework\6.4.4</PkgEntityFramework>
     <PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer)' == '' ">C:\Users\Research\.nuget\packages\microsoft.aspnetcore.components.webassembly.devserver\6.0.16</PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer>
   </PropertyGroup>
 </Project>

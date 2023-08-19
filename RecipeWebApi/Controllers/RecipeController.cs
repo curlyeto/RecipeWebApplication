@@ -80,5 +80,13 @@ namespace RecipeWebApi.Controllers
            
             return Ok(recipe);
         }
+        [HttpGet("userRecipe")]
+        public ActionResult userRecipe(String userId)
+        {
+            var userRecipe = _dbContext.Recipe.Where(recipe => recipe.UserId == int.Parse(userId));
+            return Ok(userRecipe);
+
+            
+        }
     }
 }

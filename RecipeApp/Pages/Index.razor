@@ -2,6 +2,8 @@
 @using RecipeApp.ClassLibrary.Model
 @inject NavigationManager NavigationManager
 @using System.Text.Json
+@using RecipeApp.Services;
+@inject IRecipeService recipeService;
 
 <PageTitle>Home</PageTitle>
 
@@ -33,6 +35,18 @@
     private List<Recipe> TestList = new List<Recipe>();
 
     private Recipe recipe = new Recipe();
+    private List<Recipe> userList = new List<Recipe>();
+    protected override async Task OnInitializedAsync()
+    {
+         await getUsers();
+
+    }
+    private async Task getUsers()
+    {
+        TestList = await recipeService.getRecipes();
+        Console.WriteLine("Recipe List Count " + userList.Count);
+    }
+
 
     private void DirectToDetailRecipe(Recipe item)
     {
@@ -51,20 +65,20 @@
     {
         List<Recipe> rows = new List<Recipe>();
         int listIndex = 0;
-        for (int k = 0; k < recipe.addRecipes().Count; k++)
+        for (int k = 0; k < TestList.Count; k++)
         {
 
             for (int i = 0; i < 4; i++)
             {
-                if (rows.Count == recipe.addRecipes().Count)
+                if (rows.Count == TestList.Count)
                 {
                     break;
                 
                 }
-                rows.Add(recipe.addRecipes()[listIndex]);
+                rows.Add(TestList[listIndex]);
                 listIndex++;
             }
-            if (rows.Count == recipe.addRecipes().Count)
+            if (rows.Count == TestList.Count)
             {
                 break;
 

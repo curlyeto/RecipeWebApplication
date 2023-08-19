@@ -19,6 +19,7 @@ namespace RecipeWebApi.Controllers
         }
 
         [HttpGet]
+        [Route("getAllUsers")]
         public async Task<ActionResult<List<User>>> getUsers()
         {
             return Ok(await _dbContext.User.ToListAsync());
@@ -63,6 +64,7 @@ namespace RecipeWebApi.Controllers
             await _dbContext.SaveChangesAsync();
             return Ok();
         }
+        
         [HttpPost("login")]
         public ActionResult Login(String email, String password)
         {
@@ -81,6 +83,8 @@ namespace RecipeWebApi.Controllers
          
            
         }
+        
+      
 
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h/sXIpZk33nPTEjkTvMh5TdXnS3iusBjp+tri0zwt7U=",
+  "Hash": "qDM3nWFb7DFxPCdye7bQ+IwNQ4hh95/T9OEZkoE9Lbc=",
   "Source": "RecipeApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -952,6 +952,40 @@
       "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.18\\runtimes\\browser-wasm\\native\\dotnet.wasm"
     },
     {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\EntityFramework.dll",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/EntityFramework.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\entityframework\\6.4.4\\lib\\netstandard2.1\\EntityFramework.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\EntityFramework.SqlServer.dll",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/EntityFramework.SqlServer.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\entityframework\\6.4.4\\lib\\netstandard2.1\\EntityFramework.SqlServer.dll"
+    },
+    {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
       "SourceId": "RecipeApp",
       "SourceType": "Computed",
@@ -1598,6 +1632,23 @@
       "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.18\\runtimes\\browser-wasm\\lib\\net6.0\\Microsoft.Win32.Registry.dll"
     },
     {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Win32.SystemEvents.dll",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Win32.SystemEvents.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\lib\\netstandard2.0\\Microsoft.Win32.SystemEvents.dll"
+    },
+    {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\mscorlib.dll",
       "SourceId": "RecipeApp",
       "SourceType": "Computed",
@@ -1630,6 +1681,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.18\\runtimes\\browser-wasm\\lib\\net6.0\\netstandard.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib\\net6.0\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\RecipeApp.ClassLibrary.dll",
@@ -1732,6 +1800,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.18\\runtimes\\browser-wasm\\lib\\net6.0\\System.Buffers.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.CodeDom.dll",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.CodeDom.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\system.codedom\\4.7.0\\lib\\netstandard2.0\\System.CodeDom.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Concurrent.dll",
@@ -1921,6 +2006,23 @@
       "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.18\\runtimes\\browser-wasm\\lib\\net6.0\\System.ComponentModel.TypeConverter.dll"
     },
     {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Configuration.ConfigurationManager.dll",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Configuration.ConfigurationManager.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\lib\\netstandard2.0\\System.Configuration.ConfigurationManager.dll"
+    },
+    {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Configuration.dll",
       "SourceId": "RecipeApp",
       "SourceType": "Computed",
@@ -2021,6 +2123,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.18\\runtimes\\browser-wasm\\lib\\net6.0\\System.Data.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Data.SqlClient.dll",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Data.SqlClient.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\system.data.sqlclient\\4.8.1\\lib\\netcoreapp2.1\\System.Data.SqlClient.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Contracts.dll",
@@ -2208,6 +2327,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.18\\runtimes\\browser-wasm\\lib\\net6.0\\System.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Drawing.Common.dll",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Drawing.Common.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\system.drawing.common\\4.7.0\\lib\\netstandard2.0\\System.Drawing.Common.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Drawing.dll",
@@ -3757,6 +3893,23 @@
       "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.18\\runtimes\\browser-wasm\\lib\\net6.0\\System.Security.Cryptography.Primitives.dll"
     },
     {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.ProtectedData.dll",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Security.Cryptography.ProtectedData.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.X509Certificates.dll",
       "SourceId": "RecipeApp",
       "SourceType": "Computed",
@@ -3789,6 +3942,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.18\\runtimes\\browser-wasm\\lib\\net6.0\\System.Security.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Permissions.dll",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Security.Permissions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\system.security.permissions\\4.7.0\\lib\\netcoreapp3.0\\System.Security.Permissions.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Principal.dll",
@@ -4248,6 +4418,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.18\\runtimes\\browser-wasm\\lib\\net6.0\\System.Windows.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Windows.Extensions.dll",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Windows.Extensions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\system.windows.extensions\\4.7.0\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.dll",
@@ -4930,6 +5117,23 @@
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Physical.dll"
     },
     {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\5Ygq9ygs.gz",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Windows.Extensions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Windows.Extensions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Windows.Extensions.dll"
+    },
+    {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\640CKtQy.gz",
       "SourceId": "RecipeApp",
       "SourceType": "Computed",
@@ -5219,6 +5423,23 @@
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Contracts.dll"
     },
     {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\aru8jLUQ.gz",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Security.Cryptography.ProtectedData.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.ProtectedData.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\AYeeQmT+.gz",
       "SourceId": "RecipeApp",
       "SourceType": "Computed",
@@ -5302,6 +5523,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Numerics.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\cENT7gtY.gz",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Security.Permissions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Permissions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Permissions.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\ceTSsmxo.gz",
@@ -5404,6 +5642,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\d62K8SZh.gz",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/EntityFramework.SqlServer.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\EntityFramework.SqlServer.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\EntityFramework.SqlServer.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\dhK9rBsT.gz",
@@ -5610,6 +5865,23 @@
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Buffers.dll"
     },
     {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\ELwp56Wk.gz",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Configuration.ConfigurationManager.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Configuration.ConfigurationManager.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Configuration.ConfigurationManager.dll"
+    },
+    {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\EsmLAn9g.gz",
       "SourceId": "RecipeApp",
       "SourceType": "Computed",
@@ -5659,6 +5931,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Concurrent.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\eZitbk4Y.gz",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Data.SqlClient.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Data.SqlClient.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Data.SqlClient.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\f7O4iZgP.gz",
@@ -6118,6 +6407,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebSockets.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\JeceW+KA.gz",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Win32.SystemEvents.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Win32.SystemEvents.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Win32.SystemEvents.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\jLNq9l5H.gz",
@@ -7038,6 +7344,23 @@
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.Linq.dll"
     },
     {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\rifbrCz9.gz",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/EntityFramework.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\EntityFramework.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\EntityFramework.dll"
+    },
+    {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\rQ1enwQq.gz",
       "SourceId": "RecipeApp",
       "SourceType": "Computed",
@@ -7121,6 +7444,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebHeaderCollection.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\TEkAsWmj.gz",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.CodeDom.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.CodeDom.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.CodeDom.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\tEyRq8it.gz",
@@ -7599,6 +7939,23 @@
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Primitives.dll"
     },
     {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\wPrTxDQW.gz",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Newtonsoft.Json.dll"
+    },
+    {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\wqvm7N0I.gz",
       "SourceId": "RecipeApp",
       "SourceType": "Computed",
@@ -7971,6 +8328,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Algorithms.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\ZqnOjCW7.gz",
+      "SourceId": "RecipeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Drawing.Common.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Drawing.Common.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Drawing.Common.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\RecipeApp\\RecipeApp\\obj\\Debug\\net6.0\\build-gz\\ZxQKnQGV.gz",

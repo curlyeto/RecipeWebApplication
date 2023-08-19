@@ -4,13 +4,13 @@
 @inject IJSRuntime JsRuntime
 @using RecipeApp.ClassLibrary.Model
 @using RecipeApp.Helper
-
-
+@using RecipeApp.Services
+@inject IUserServicese userService;
+@inject HttpClient HttpClient
+@using System.Text.Json;
 <div class="">
     <h3>Login</h3>
-    <p class="mt-2">Default User Information</p>
-    <p class="">test@gmail.com</p>
-    <p class="mb-4">1234</p>
+
     <div class="form-group col-4 ">
         <label for="username">Mail:</label>
         <input type="email" class="form-control" id="email" @bind="email" />
@@ -23,24 +23,69 @@
 
     <button class="btn btn-primary" @onclick="LoginPage">Login</button>
     <a href="register">Register</a>
+
+    <br />
+    
 </div>
 
 
 @code {
     private string email;
     private string password;
+    private List<User> userList = new List<User>();
 
+
+
+    protected override async Task OnInitializedAsync()
+    {
+         await getUsers();
+
+    }
+    private async Task getUsers()
+    {
+        userList = await userService.getUsers();
+        Console.WriteLine("User List Count " + userList.Count);
+    }
+
+    private async Task<bool> LoginRequest()
+    {
+        var response =await userService.Login(email,password);
+        if (response.IsSuccessStatusCode)
+        {
+            UIHelper uIHelper = new UIHelper(JsRuntime);
+
+            var user = await uIHelper.getResponseToUser(response);
+            await uIHelper.saveLocalStorage("userId", user.Id);
+           
+ 
+            return true;
+        }
+        else
+        {
+            Console.WriteLine("Status Code" + response.IsSuccessStatusCode);
+            return false;
+        }
+    }
     private async void LoginPage()
     {
         User user = new User();
         UIHelper uIHelper = new UIHelper(JsRuntime);
-        
+
+
+
+
         if (!string.IsNullOrEmpty(email) && !string.IsNullOrEmpty(password))
         {
-            if (user.defaultUser().Email == email && user.defaultUser().Password == password)
-                NavigationManager.NavigateTo("/");
-            else
+            bool response = await LoginRequest();
+
+            if (!response)
+            {
                 await uIHelper.Alert("Login unsuccessful. Please check your email and password!");
+            }
+            else
+            {
+                NavigationManager.NavigateTo("/");
+            }
         }
         else
         {

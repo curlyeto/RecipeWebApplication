@@ -1,7 +1,10 @@
 ﻿@page "/myrecipe"
 @using RecipeApp.ClassLibrary.Model
 @inject NavigationManager NavigationManager
-
+@using RecipeApp.Helper;
+@using RecipeApp.Services;
+@inject IRecipeService recipeService;
+@inject IJSRuntime JsRuntime
 <PageTitle>My Recipe</PageTitle>
 
 <Virtualize Items="new List<IEnumerable<Recipe>> { TestList }">
@@ -15,8 +18,8 @@
                     <p>
                         @item.Integrates
                     </p>
-                    <button type="button" class="btn btn-warning" @onclick="EditRecipe">Edit</button>
-                    <button type="button" class="btn btn-danger">Delete</button>
+                    <button type="button" class="btn btn-warning" @onclick="(()=>EditRecipe(item))">Edit</button>
+                    <button type="button" class="btn btn-danger" @onclick="(()=>DeleteRecipe(item))">Delete</button>
                 </div>
             }
         </div>
@@ -28,11 +31,35 @@
 
     private Recipe recipe = new Recipe();
 
-    private void EditRecipe()
+    private void EditRecipe(Recipe recipe)
     {
-        NavigationManager.NavigateTo("/editrecipe");
+        NavigationManager.NavigateTo($"/editrecipe/{recipe.Id}");
     }
+    private async void DeleteRecipe(Recipe recipe)
+    {
+        var response=await recipeService.deleteRecipe(recipe.Id);
+        if (response)
+        {
+            TestList.Remove(recipe);
+            StateHasChanged();
+        }
+      
+        
+      
+    }
+    protected override async Task OnInitializedAsync()
+    {
+        await getUserRecipes();
 
+    }
+    private async Task getUserRecipes()
+    {
+        UIHelper uIHelper = new UIHelper(JsRuntime);
+
+        string userId = await uIHelper.readLocalStorage("userId");
+        TestList = await recipeService.myRecipes(int.Parse(userId));
+        Console.WriteLine("Recipe List Count " + TestList.Count);
+    }
     protected override void OnInitialized()
     {
 
@@ -43,20 +70,20 @@
     {
         List<Recipe> rows = new List<Recipe>();
         int listIndex = 0;
-        for (int k = 0; k < recipe.addRecipes().Count; k++)
+        for (int k = 0; k < TestList.Count; k++)
         {
 
             for (int i = 0; i < 4; i++)
             {
-                if (rows.Count == recipe.addRecipes().Count)
+                if (rows.Count == TestList.Count)
                 {
                     break;
 
                 }
-                rows.Add(recipe.addRecipes()[listIndex]);
+                rows.Add(TestList[listIndex]);
                 listIndex++;
             }
-            if (rows.Count == recipe.addRecipes().Count)
+            if (rows.Count == TestList.Count)
             {
                 break;
 

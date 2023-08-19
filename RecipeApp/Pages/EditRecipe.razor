@@ -1,32 +1,70 @@
 ﻿@page "/editrecipe"
-
+@page "/editrecipe/{id:int}"
+@using RecipeApp.Services;
+@inject IRecipeService recipeService;
+@inject IJSRuntime JsRuntime
+@using RecipeApp.Helper
+@inject NavigationManager navigationManager;
 <PageTitle>Edit Recipe</PageTitle>
 
-<form>
-    <div class="form-group mb-2">
-        <label for="exampleFormControlFile1">Image</label>
-        <input type="file" class="form-control-file" id="exampleFormControlFile1">
-    </div>
-    <div class="form-group mb-2">
-        <label for="exampleInputEmail1">Name</label>
-        <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Name">
-    </div>
-    <div class="form-group mb-2">
-        <label for="exampleInputPassword1">Integrates</label>
-        <textarea type="text" class="form-control" id="exampleInputPassword1" placeholder="Enter Integrates" rows="7" />
 
-    </div>
-    <div class="form-group mb-2">
-        <label for="exampleInputPassword1">Instruction</label>
-        <textarea type="text" class="form-control" id="exampleInputPassword1" placeholder="Enter Instruction" rows="7" />
-    </div>
+<div class="form-group mb-2">
+    <label for="exampleFormControlFile1">Image</label>
+    <input type="text" class="form-control" id="image" placeholder="Enter Image Link" @bind="image">
+</div>
+<div class="form-group mb-2">
+    <label for="exampleInputEmail1">Name</label>
+    <input type="text" class="form-control" id="name" aria-describedby="emailHelp" placeholder="Enter Name" @bind="name">
+</div>
+<div class="form-group mb-2">
+    <label for="exampleInputPassword1">Integrates</label>
+    <textarea type="text" class="form-control" id="integrates" placeholder="Enter Integrates" rows="7" @bind="integrates" />
 
-
+</div>
+<div class="form-group mb-2">
+    <label for="exampleInputPassword1">Instruction</label>
+    <textarea type="text" class="form-control" id="instruction" placeholder="Enter Instruction" rows="7" @bind="instruction" />
+</div>
 
 
-    <button type="submit" class=" btn btn-primary">Edit Reciepe</button>
-</form>
+
+
+<button type="submit" class=" btn btn-primary" @onclick="OnEditRecipe">Edit Reciepe</button>
 
 @code {
+    [Parameter]
+    public int? Id { get; set; }
+    private string image;
+    private string name;
+    private string integrates;
+    private string instruction;
 
+
+    protected override async Task OnInitializedAsync()
+    {
+        await getRecipeWithId();
+
+    }
+    private async Task getRecipeWithId()
+    {
+        var response = await recipeService.getRecipeWithId((int)Id);
+        image = response.Image;
+        name = response.Name;
+        integrates = response.Integrates;
+        instruction = response.Instruction;
+        Console.WriteLine("Recipe List Count " + response.Name);
+    }
+    private async void OnEditRecipe()
+    {
+        UIHelper uIHelper = new UIHelper(JsRuntime);
+
+        string userId = await uIHelper.readLocalStorage("userId");
+
+        var response = await recipeService.EditRecipe(image, name, integrates, instruction, int.Parse(userId), (int)Id);
+        if (response)
+        {
+            navigationManager.NavigateTo("/");
+        }
+      
+    }
 }
