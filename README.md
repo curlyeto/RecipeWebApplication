@@ -24,3 +24,5 @@ People are indecisive about which dish to cook. Only after registering to the re
 <h1>Application Preview</h1>
 
 https://github.com/curlyeto/RecipeWebApplication/assets/33760141/89a72d09-b022-4f70-8c9a-30a0c164f6a9
+
+![reciepewebapi](https://github.com/curlyeto/RecipeWebApplication/assets/33760141/3831ca80-17dd-40de-bc82-843d28e065d0)
